@@ -67,7 +67,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                       ),
                     ),
                   ],
-                  totalRepeatCount: 1,
+                  totalRepeatCount: 3,
                 ),
               ],
             ),
